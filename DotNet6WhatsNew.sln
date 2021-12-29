@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet6WhatsNew", "DotNet6WhatsNew\DotNet6WhatsNew.csproj", "{C7A94E35-EB17-463B-97D3-D926E394EDAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalApiDemo", "MinimalApiDemo\MinimalApiDemo.csproj", "{35D20ABB-14FE-48E6-AE23-2467B0379810}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C7A94E35-EB17-463B-97D3-D926E394EDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7A94E35-EB17-463B-97D3-D926E394EDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7A94E35-EB17-463B-97D3-D926E394EDAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35D20ABB-14FE-48E6-AE23-2467B0379810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D20ABB-14FE-48E6-AE23-2467B0379810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D20ABB-14FE-48E6-AE23-2467B0379810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D20ABB-14FE-48E6-AE23-2467B0379810}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
